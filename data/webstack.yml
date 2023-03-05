@@ -1,9 +1,30 @@
 ---
 
+- taxonomy: 日签
+  icon: fas fa-tasks
+  links:
+    - title: 猿分天空
+      #logo: 语雀.jpg
+      url: https://yftk.fun/
+      description: 炫猿导航论坛
+    - title: 花火学院
+      #logo: qq邮箱.png
+      url: https://www.sayhuahuo.xyz/
+      description: 一个叫花火的学院
 - taxonomy: 个人
   icon: fas fa-user
   list:
-    - term: 日签
+    - term: 网盘
+      links:
+        - title: 123云盘
+          #logo: 百度贴吧.jpg
+          url: https://www.123pan.com/
+          description: 123网盘
+        - title: 台服战地
+          logo: 战地之王.png
+          url: https://ava.mangot5.com/ava/index
+          description: 台服 AVA 战地之王。
+    - term: 论坛
       links:
         - title: 猿分天空
           #logo: 腾讯视频.png
@@ -37,16 +58,6 @@
           logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载。
-    - term: 网盘
-      links:
-        - title: 123云盘
-          #logo: 百度贴吧.jpg
-          url: https://www.123pan.com/
-          description: 123网盘
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 

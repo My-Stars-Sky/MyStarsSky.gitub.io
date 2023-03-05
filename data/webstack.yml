@@ -3,7 +3,7 @@
 - taxonomy: 个人
   icon: fas fa-user
   list:
-    - term: 每日一签
+    - term: 日签
       links:
         - title: 猿分天空
           #logo: 腾讯视频.png
@@ -37,12 +37,12 @@
           logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载。
-    - term: 游戏竞技
+    - term: 网盘
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
+        - title: 123云盘
+          #logo: 百度贴吧.jpg
+          url: https://www.123pan.com/
+          description: 123网盘
         - title: 台服战地
           logo: 战地之王.png
           url: https://ava.mangot5.com/ava/index

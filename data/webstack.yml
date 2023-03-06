@@ -32,6 +32,54 @@
           #logo: 战地之王.png
           url: https://www.aliyundrive.com/
           #description:
+        - title: 115网盘
+          #logo: 百度贴吧.jpg
+          url: https://115.com/
+          #description: 123网盘
+        - title: 云中转(国内ip)
+          #logo: 战地之王.png
+          url: https://www.yzzpan.com/
+          #description:
+        - title: 云中转(国外ip)
+          #logo: 战地之王.png
+          url: https://www.yunzhongzhuan.com/
+          #description:
+        - title: 中国移动云盘
+          #logo: 战地之王.png
+          url: https://yun.139.com/
+          #description:
+        - title: 文叔叔
+          #logo: 百度贴吧.jpg
+          url: https://www.wenshushu.cn/
+          #description: 123网盘
+        - title: 飞猫云
+          #logo: 战地之王.png
+          url: https://www.feimaoyun.com/
+          #description:
+        - title: 天翼云盘
+          #logo: 战地之王.png
+          url: https://cloud.189.cn/
+          #description:
+        - title: 小龙云盘
+          #logo: 战地之王.png
+          url: https://www.stariverpan.com/
+          #description:
+        - title: 坚果云
+          #logo: 百度贴吧.jpg
+          url: https://www.jianguoyun.com/
+          #description: 123网盘
+        - title: 诚通网盘
+          #logo: 战地之王.png
+          url: https://www.ctfile.com/
+          #description:
+        - title: 腾讯微云
+          #logo: 战地之王.png
+          url: https://www.weiyun.com/
+          #description:
+        - title: 奶牛快传
+          #logo: 战地之王.png
+          url: https://cowtransfer.com/
+          #description:
     - term: 论坛
       links:
         - title: 猿分天空

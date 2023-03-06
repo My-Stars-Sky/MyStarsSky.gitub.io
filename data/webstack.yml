@@ -19,11 +19,19 @@
         - title: 123云盘
           #logo: 百度贴吧.jpg
           url: https://www.123pan.com/
-          description: 123网盘
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+          #description: 123网盘
+        - title: 蓝奏云
+          #logo: 战地之王.png
+          url: https://www.lanzou.com/
+          #description:
+        - title: 百度网盘
+          #logo: 战地之王.png
+          url: https://pan.baidu.com/
+          #description:
+        - title: 阿里云盘
+          #logo: 战地之王.png
+          url: https://www.aliyundrive.com/
+          #description:
     - term: 论坛
       links:
         - title: 猿分天空
